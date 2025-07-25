@@ -12,6 +12,6 @@ These projects go beyond simple UI and reflect real-world features like structur
 
 ---
 
-## 📌 Purpose of This Section
+## 📌 Purpose of This Repo
 
 These major projects show how I’ve moved from learning the basics to actually building full, working apps. Each one helped me practice real-world skills like handling UI logic, working with dynamic data, and structuring clean, usable layouts.
